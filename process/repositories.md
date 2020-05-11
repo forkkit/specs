@@ -9,8 +9,8 @@ Prisma obviously uses GitHub for hosting our git repositories. This document spe
 
 
 - [Repositories in use](#repositories-in-use)
-  - [Framework](#framework)
-    - [Tools](#tools)
+  - [Prisma](#prisma)
+    - [Main](#main)
     - [Internal parts](#internal-parts)
   - [Additional](#additional)
   - [Meta](#meta)
